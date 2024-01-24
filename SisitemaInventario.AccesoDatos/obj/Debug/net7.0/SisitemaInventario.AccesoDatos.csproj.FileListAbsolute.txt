@@ -1,0 +1,17 @@
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.AccesoDatos.deps.json
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.AccesoDatos.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.AccesoDatos.pdb
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.Modelos.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.Utilidades.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.Modelos.pdb
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\bin\Debug\net7.0\SisitemaInventario.Utilidades.pdb
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.csproj.CopyComplete
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SisitemaInventario.AccesoDatos.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SisitemaInventario.AccesoDatos.pdb
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SisitemaInventario.AccesoDatos.dll

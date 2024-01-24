@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Modelos\\SisitemaInventario.Modelos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Modelos\\SisitemaInventario.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Modelos\\SisitemaInventario.Modelos.csproj",
+        "projectName": "SisitemaInventario.Modelos",
+        "projectPath": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Modelos\\SisitemaInventario.Modelos.csproj",
+        "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\SisitemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\SisitemaInventario.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\SisitemaInventario.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\SisitemaInventario.Utilidades.csproj",
+        "projectName": "SisitemaInventario.Utilidades",
+        "projectPath": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\SisitemaInventario.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

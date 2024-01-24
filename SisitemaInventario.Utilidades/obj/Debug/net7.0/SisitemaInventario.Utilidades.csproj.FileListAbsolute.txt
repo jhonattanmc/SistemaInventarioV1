@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\bin\Debug\net7.0\SisitemaInventario.Utilidades.deps.json
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\bin\Debug\net7.0\SisitemaInventario.Utilidades.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\bin\Debug\net7.0\SisitemaInventario.Utilidades.pdb
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\SisitemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\SisitemaInventario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\SisitemaInventario.Utilidades.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\SisitemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\SisitemaInventario.Utilidades.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\refint\SisitemaInventario.Utilidades.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\SisitemaInventario.Utilidades.pdb
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.Utilidades\obj\Debug\net7.0\ref\SisitemaInventario.Utilidades.dll

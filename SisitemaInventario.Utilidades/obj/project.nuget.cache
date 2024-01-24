@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "isHVtWyaDZHN3/6FC1sE6KvCUoF6kvDEDhFK1d7vnMxDUYpdo3f6LmO6Naztz3TusahT9A01AjJzKGCZzce0OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhona\\OneDrive\\Desktop\\Udemy\\Curso 1\\Proyecto\\SistemaInventario\\SisitemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
