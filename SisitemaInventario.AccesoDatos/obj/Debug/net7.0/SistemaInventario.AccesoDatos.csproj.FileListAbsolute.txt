@@ -15,3 +15,4 @@ C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\Sisitem
 C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
 C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
 C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
+C:\Users\jhona\OneDrive\Desktop\Udemy\Curso 1\Proyecto\SistemaInventario\SisitemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.sourcelink.json
